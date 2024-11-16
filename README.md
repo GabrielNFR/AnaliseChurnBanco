@@ -24,41 +24,24 @@ Aqui está o link para a base de dados utilizada: https://www.kaggle.com/dataset
 
 ### Variáveis
 
-RowNumber — corresponde ao número do registro (linha) e não tem efeito na saída.
-
-CustomerId — contém valores aleatórios e não tem efeito na saída do cliente do banco.
-
-Surname — o sobrenome de um cliente não tem impacto na decisão de deixar o banco.
-
-CreditScore — pode ter efeito na rotatividade de clientes, já que um cliente com uma pontuação de crédito mais alta tem menos probabilidade de deixar o banco.
-
-Geography — a localização de um cliente pode afetar sua decisão de deixar o banco.
-
-Gender — é interessante explorar se o gênero desempenha um papel na saída de um cliente do banco.
-
-Age — isso é certamente relevante, já que clientes mais velhos têm menos probabilidade de deixar o banco do que os mais jovens.
-
-Tenure — refere-se ao número de anos que o cliente é cliente do banco. Normalmente, clientes mais velhos são mais leais e menos propensos a deixar o banco.
-
-Balance — também um ótimo indicador de rotatividade de clientes, já que pessoas com um saldo maior em suas contas têm menos probabilidade de deixar o banco em comparação com aquelas com saldos menores.
-
-NumOfProducts — refere-se ao número de produtos que um cliente comprou por meio do banco.
-
-HasCrCard — indica se um cliente tem ou não um cartão de crédito. Esta coluna também é relevante, pois pessoas com cartão de crédito têm menos probabilidade de deixar o banco.
-
-IsActiveMember — clientes ativos têm menos probabilidade de deixar o banco.
-
-EstimatedSalary — assim como com balance, pessoas com salários mais baixos têm mais probabilidade de deixar o banco em comparação com aquelas com salários mais altos.
-
-Exited — se o cliente deixou ou não o banco.
-
-Complain — o cliente tem reclamação ou não.
-
-Satisfaction Score — pontuação fornecida pelo cliente para a resolução de sua reclamação.
-
-Card Type — tipo de cartão mantido pelo cliente.
-
-Points Earned — os pontos ganhos pelo cliente por usar o cartão de crédito.
+- RowNumber — corresponde ao número do registro (linha) e não tem efeito na saída.
+- CustomerId — contém valores aleatórios e não tem efeito na saída do cliente do banco.
+- Surname — o sobrenome de um cliente não tem impacto na decisão de deixar o banco.
+- CreditScore — pode ter efeito na rotatividade de clientes, já que um cliente com uma pontuação de crédito mais alta tem menos probabilidade de deixar o banco.
+- Geography — a localização de um cliente pode afetar sua decisão de deixar o banco.
+- Gender — é interessante explorar se o gênero desempenha um papel na saída de um cliente do banco.
+- Age — isso é certamente relevante, já que clientes mais velhos têm menos probabilidade de deixar o banco do que os mais jovens.
+- Tenure — refere-se ao número de anos que o cliente é cliente do banco. Normalmente, clientes mais velhos são mais leais e menos propensos a deixar o banco.
+- Balance — também um ótimo indicador de rotatividade de clientes, já que pessoas com um saldo maior em suas contas têm menos probabilidade de deixar o banco em comparação com aquelas com saldos menores.
+- NumOfProducts — refere-se ao número de produtos que um cliente comprou por meio do banco.
+- HasCrCard — indica se um cliente tem ou não um cartão de crédito. Esta coluna também é relevante, pois pessoas com cartão de crédito têm menos probabilidade de deixar o banco.
+- IsActiveMember — clientes ativos têm menos probabilidade de deixar o banco.
+- EstimatedSalary — assim como com balance, pessoas com salários mais baixos têm mais probabilidade de deixar o banco em comparação com aquelas com salários mais altos.
+- Exited — se o cliente deixou ou não o banco.
+- Complain — o cliente tem reclamação ou não.
+- Satisfaction Score — pontuação fornecida pelo cliente para a resolução de sua reclamação.
+- Card Type — tipo de cartão mantido pelo cliente.
+- Points Earned — os pontos ganhos pelo cliente por usar o cartão de crédito.
 
 ## Principais Descobertas
 
