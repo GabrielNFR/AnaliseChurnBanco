@@ -1,7 +1,7 @@
 # Autores do Projeto
 
-https://github.com/GabrielNFR
-https://github.com/juanbrazz
+- https://github.com/GabrielNFR
+- https://github.com/juanbrazz
 
 # Análise de Churn de Clientes
 
