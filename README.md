@@ -1,3 +1,8 @@
+# Autores do Projeto
+
+https://github.com/GabrielNFR
+https://github.com/juanbrazz
+
 # Análise de Churn de Clientes
 
 Este projeto visa analisar os fatores que influenciam a retenção e a saída de clientes de uma empresa, identificando perfis de clientes que são mais propensos a sair e recomendando estratégias para melhorar a retenção.
@@ -10,6 +15,12 @@ O objetivo deste projeto é explorar as características dos clientes que perman
 
 O conjunto de dados utilizado neste projeto é o `Customer-Churn-Records.csv`, que contém informações detalhadas sobre os clientes, incluindo idade, gênero, saldo, status de atividade, e status de saída.
 Aqui está o link para a base de dados utilizada: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
+
+## Link para os Artigos
+
+- Parte 1: https://medium.com/@skicklel/bank-customer-churn-analysis-part-1-54765740f129
+- Parte 2: https://medium.com/@jfcbdo/customer-bank-churn-analysis-part-2-170268105301
+- Parte 3: https://medium.com/@jfcbdo/customer-churn-bank-analysis-part-3-418ec467957b
 
 ### Variáveis
 
