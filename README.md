@@ -20,6 +20,7 @@ CustomerId — contém valores aleatórios e não tem efeito na saída do client
 Surname — o sobrenome de um cliente não tem impacto na decisão de deixar o banco.
 
 CreditScore — pode ter efeito na rotatividade de clientes, já que um cliente com uma pontuação de crédito mais alta tem menos probabilidade de deixar o banco.
+
 Geography — a localização de um cliente pode afetar sua decisão de deixar o banco.
 
 Gender — é interessante explorar se o gênero desempenha um papel na saída de um cliente do banco.
